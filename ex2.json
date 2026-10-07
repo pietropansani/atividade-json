@@ -1,0 +1,8 @@
+{
+    "aluno": {
+        "nome": "Samuel Reynaldo Gomes Viana",
+        "idade": 16,
+        "notas": ["7.5", "8", "6.5"],
+        "aprovado": true
+}
+}

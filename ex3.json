@@ -1,0 +1,13 @@
+{
+  "produto": {
+    "nome": "Notebook Gamer",
+    "preco": 4500.90,
+    "quantidade": 15,
+    "disponivel": true,
+    "categorias": ["Eletrônicos", "Informática", "Games"],
+    "fornecedor": {
+      "nome": "Tech Distribuidora",
+      "telefone": "11987654321"
+    }
+  }
+}
